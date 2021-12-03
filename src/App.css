@@ -1,0 +1,10 @@
+body {
+  background-color: #290024;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  color: white;
+}
+
+.header-container {
+  text-align: center;
+  background-color: rgb(93, 166, 168);
+}
